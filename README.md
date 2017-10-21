@@ -1,2 +1,2 @@
 # Compiler_Principle
-Some compiler analyzer wrote on my intrests.
+Some compiler analyzer wrote of my intrests.
